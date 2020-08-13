@@ -103,6 +103,8 @@ SANS         |The Industrial Control System Cyber Kill Chain              |https
 - [x] CSSA (Certified SCADA Security Architect)
 - [x] GRID (GIAC Response and Industrial Defense)
 - [x] Certified Operational Technology Cybersecurity Professional (TÜV)
+- [x] [CACS (Certified Automation Cybersecurity Specialist) (Exida)](https://www.exidacace.com)
+- [x] [CACE (Certified Automation Cybersecurity Expert) (Exida)](https://www.exidacace.com)
 - [x] ISA/IEC 62443 Cybersecurity Fundamentals Specialist
 - [x] ISA/IEC 62443 Cybersecurity Risk Assessment Specialist
 - [x] ISA/IEC 62443 Cybersecurity Design Specialist
